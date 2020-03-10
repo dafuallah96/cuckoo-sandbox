@@ -1,0 +1,14 @@
+.home {
+	padding: 56px 20px;
+	min-height: 100%;
+	width: 100%;
+	text-align: center;
+}
+
+h1 {
+	margin-bottom: 16px !important;
+}
+
+.drop_zone {
+	margin: 0 auto;
+}
